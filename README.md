@@ -1,5 +1,7 @@
 # BPL model for one-shot learning
 
+The paper: https://www.sciencemag.org/content/350/6266/1332.full.pdf
+
 Matlab source code for one-shot learning of handwritten characters with Bayesian Program Learning (BPL).
 
 ### Citing this code
